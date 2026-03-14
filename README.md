@@ -35,7 +35,10 @@ A CLI scientific calculator built with Python.
 ## How to run
 
 Make sure Python is installed.
+
+```
 python calculator.py
+```
 
 ## Project Structure
 
